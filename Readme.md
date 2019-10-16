@@ -15,7 +15,7 @@
 
 
 ### Instruções para rodar o projeto:
-* Para apenas executar o projeto, de um clique duplo sobre o arquivo denominado [Projeto_BlackJack] localizado dentro da pasta ProjetoFinal. 
+* Para apenas executar o projeto, de um clique duplo sobre o arquivo denominado [Projeto_BlackJack], rodando o Projeto_BlackJack.jar
 
 * No entanto, se você deseja ter acesso ao código fonte, use NetBeans IDE  para compilar e rodar o projeto localizado na  pasta ProjetoFinal. 
 
