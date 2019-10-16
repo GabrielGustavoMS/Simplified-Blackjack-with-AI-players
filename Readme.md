@@ -3,7 +3,7 @@
 
 [Projeto BlackJack] - Esse projeto foi desenvolvido com base nas regras simplificadas do jogo BlackJack, descritas no pdf disponibilizado pelo professor. 
 
-[Regras e diretrizes](\ProjetoPOO\Projeto_Final_ED1)
+[Regras e diretrizes](Projeto_Final_ED1.pdf)
 
 ##  Discplina: Estruturas de Dados 1.
 ##  Professor:  Me. Tales Gouveia Fernandes.
