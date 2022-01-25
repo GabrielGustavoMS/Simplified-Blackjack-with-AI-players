@@ -1,7 +1,13 @@
-# [Projeto BlackJack] - [Desenvolvido por:] - Gabriel Gustavo Mariano da Silva. 
-* Ciência da Computação - 2019. 
+# Projeto BlackJack - 
+### Desenvolvido por: Gabriel Gustavo Mariano da Silva. 
 
-[Projeto BlackJack] - Esse projeto foi desenvolvido com base nas regras simplificadas do jogo BlackJack, descritas no pdf disponibilizado pelo professor. 
+* Ciência da Computação - 2019. 
+---
+Projeto BlackJack - Esse projeto foi desenvolvido com base nas regras simplificadas do jogo BlackJack, descritas no pdf disponibilizado pelo professor. 
+
+![Preview](./screenshot.jpg "Preview")
+---
+
 
 [Regras e diretrizes](Projeto_Final_ED1.pdf)
 
